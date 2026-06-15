@@ -13,7 +13,7 @@ The project consists of seven Python files that simulate a healthcare IoT enviro
 
 #File Descriptions
 1. i_pump.py--Simulates an IoT-enabled infusion pump used for medication delivery.
-2. 2. pacemaker.py--Simulates a pacemaker device connected to the healthcare network.
+2. pacemaker.py--Simulates a pacemaker device connected to the healthcare network.
 3. monitor.py--Simulates a patient monitoring system.
 4. imaging.py--Simulates an imaging system such as MRI or CT scanners.
 5. server.py--Represents the central hospital management server.
